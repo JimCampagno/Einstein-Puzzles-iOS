@@ -1,1 +1,3 @@
-# Einstein-Puzzles-iOS
+# Various Code Challenges (iOS)
+
+* Hexadecimal problem
